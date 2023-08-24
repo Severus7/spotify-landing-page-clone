@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/spotify-landing-page-clone/static/css/main.9c4746a5.css",
+    "main.js": "/spotify-landing-page-clone/static/js/main.0b46fe46.js",
+    "index.html": "/spotify-landing-page-clone/index.html",
+    "main.9c4746a5.css.map": "/spotify-landing-page-clone/static/css/main.9c4746a5.css.map",
+    "main.0b46fe46.js.map": "/spotify-landing-page-clone/static/js/main.0b46fe46.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c4746a5.css",
+    "static/js/main.0b46fe46.js"
+  ]
+}
